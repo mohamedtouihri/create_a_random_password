@@ -1,4 +1,4 @@
-﻿# Create A Random Password
+﻿# Create a Random Password
 
 ## Setup Instructions
 
@@ -32,8 +32,7 @@
 
 ## Project Description
 
-This project implements encryption and decryption functionalities in Python. The program allows users to encrypt and decrypt text using various algorithms.
-
+The Create A Random Password project is a Python script designed to generate secure random passwords. This project demonstrates the use of Python's random module to create passwords of varying lengths and complexities, including options for letters, numbers, and special characters.
 
 ###
 
