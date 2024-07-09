@@ -1,4 +1,4 @@
-﻿# create_a_random_password
+﻿# Create A Random Password
 
 ## Setup Instructions
 
